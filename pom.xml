@@ -40,7 +40,7 @@
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/MiroslavKolosnjaji/core</url>
+            <url>https://maven.pkg.github.com/MiroslavKolosnjaji/core-service</url>
         </repository>
     </repositories>
 
@@ -48,7 +48,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Maven Packages</name>
-            <url>https://maven.pkg.github.com/MiroslavKolosnjaji/core</url>
+            <url>https://maven.pkg.github.com/MiroslavKolosnjaji/core-service</url>
         </repository>
     </distributionManagement>
 </project>

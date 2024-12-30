@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.myproject</groupId>
     <artifactId>Core</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>Core</name>
     <description>Core</description>
     <url/>
@@ -36,13 +36,6 @@
             <version>1.18.36</version>
         </dependency>
     </dependencies>
-
-    <repositories>
-        <repository>
-            <id>github</id>
-            <url>https://maven.pkg.github.com/MiroslavKolosnjaji/core</url>
-        </repository>
-    </repositories>
 
     <distributionManagement>
         <repository>

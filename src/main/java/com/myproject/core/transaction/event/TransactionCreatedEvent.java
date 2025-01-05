@@ -1,4 +1,4 @@
-package com.myproject.core.transaction;
+package com.myproject.core.transaction.event;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

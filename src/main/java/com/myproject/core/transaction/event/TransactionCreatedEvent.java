@@ -24,5 +24,6 @@ public class TransactionCreatedEvent {
     private BigDecimal balance;
     private String transactionType;
     private String status;
+    private String description;
     private Instant createdAt;
 }

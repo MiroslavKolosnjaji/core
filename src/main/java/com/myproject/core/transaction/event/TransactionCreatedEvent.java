@@ -1,9 +1,6 @@
 package com.myproject.core.transaction.event;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.math.BigDecimal;
 import java.time.Instant;
@@ -11,7 +8,8 @@ import java.time.Instant;
 /**
  * @author Miroslav Kološnjaji
  */
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder

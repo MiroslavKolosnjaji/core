@@ -17,6 +17,7 @@ public class TransactionDTO {
     private Long id;
     private Long userId;
     private Long accountId;
+    private String email;
     private BigDecimal amount;
     private String transactionType;
     private String status;

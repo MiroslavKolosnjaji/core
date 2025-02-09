@@ -17,6 +17,7 @@ public class TransactionCreatedEvent {
 
     private Long transactionId;
     private Long userId;
+    private String email;
     private String accountNumber;
     private BigDecimal amount;
     private BigDecimal balance;

@@ -37,11 +37,11 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>GitHub Miroslav Kolosnjaji Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/miroslavkolosnjaji/core</url>
-        </repository>
-    </distributionManagement>
+<!--    <distributionManagement>-->
+<!--        <repository>-->
+<!--            <id>github</id>-->
+<!--            <name>GitHub Miroslav Kolosnjaji Apache Maven Packages</name>-->
+<!--            <url>https://maven.pkg.github.com/miroslavkolosnjaji/core</url>-->
+<!--        </repository>-->
+<!--    </distributionManagement>-->
 </project>

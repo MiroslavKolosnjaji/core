@@ -8,10 +8,10 @@ import java.time.Instant;
 /**
  * @author Miroslav Kološnjaji
  */
-@Getter
-@Setter
 @NoArgsConstructor
 @AllArgsConstructor
+@Getter
+@Setter
 @Builder
 public class TransactionCreatedEvent {
 
@@ -21,6 +21,7 @@ public class TransactionCreatedEvent {
     private String accountNumber;
     private BigDecimal amount;
     private BigDecimal balance;
+    private String currency;
     private String transactionType;
     private String status;
     private String description;
